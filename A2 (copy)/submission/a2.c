@@ -150,7 +150,6 @@ int main(){
 	printf("FIN");
 	return 0;
 }
-//hello
 
 
 
